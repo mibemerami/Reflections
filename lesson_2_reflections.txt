@@ -1,0 +1,6 @@
+Reflection on: What happens when you initialize a repository? Why do you 
+need to do it?
+
+When you initialize a repository it creates a file named ".git", where the 
+meta-data for the repo is stored. It is necessary so that git knows that 
+this directory is a repo and what the status of that repo is. 
