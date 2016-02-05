@@ -1,0 +1,60 @@
+Reflection of how viewing the differences between to versions of a file
+helped me, finding the mistake:
+
+Knowing, that the old version was funktioning correctly, it is obvious
+that the bug has to be someware in the new parts. By pointing out these
+parts the program (fc) helped me to find that bug a lot faster, as if I 
+had to look up the whole file. 
+
+
+Reflection of how could a version control system make my work as a 
+programer more efficient:
+
+It could make me more couraged by trying new things, or by deleting 
+things I don't need any more, because I can always restore the last status
+it was working. 
+
+
+Reflection of the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like 
+Google Docs does:
+
+The pros of manualy saving are, that you can create your safepoints 
+fallowing a logical concept and not randomly fore exsample someware in 
+the middle of a cammand you were just typing. So your history will show
+the logical steps, you have made. If the steps safeworthy are smaller
+than an hour, you would miss some steps by hourly safing, and if your 
+staps are bigger hourly safing would clutter your history.
+A contra is that you can forget to safe, if you only do manualy. 
+
+
+Reflection on: Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, like Google Docs, 
+treat each file separately?
+
+Git is optimised for programmers, and they often work an many files, which
+are relatet to each other, simultaniously. While on the other hand in google 
+docs the files you work on are usualy so indipendent that you would rather 
+be confused if it would safe all files you have open. 
+
+
+Reflection on: How can you use the commands git log and git diff to view the 
+history of files?
+
+With the command "git log" I can see the history of the repository and with 
+"git diff" I can look it up in detail.  
+
+
+Reflection on: How might using version control make you more confident to 
+make changes that could break something?
+
+To know that I have a version, that worked, and that I can allways go back 
+to, would encourage me. 
+
+
+Reflection on: Now that you have your workspace set up, what do you want 
+to try using Git for?
+
+I want to establish a version control system for the programs I write, so 
+that I can feel more secure and that I can work on them from different 
+places.
