@@ -21,3 +21,11 @@ The staging area helps me to commit files separatly, so if there is a
 logical change per file, I can do a commit per logical change. If there
 are more thean one logical changes in one file I don't think the staging 
 area can help me. 
+
+
+Reflection on: What are some situations when branches would be helpful in 
+keeping your history organized? How would branches help?
+
+Many reasons already have been named, for example: When you want to try 
+something experimantal, or you want to change the design, but you first 
+want to try the peaoples reaction, before establishing it officialy. 
