@@ -3,4 +3,21 @@ need to do it?
 
 When you initialize a repository it creates a file named ".git", where the 
 meta-data for the repo is stored. It is necessary so that git knows that 
-this directory is a repo and what the status of that repo is. 
+this directory is a repo and what the status of that repo is.
+
+
+Reflection on: How is the staging area different from the working directory 
+and the repository? What value do you think it offers? 
+
+I think it's usefull when you don't want to commit all of the files, in your 
+working directory, or maybe not all of them at once. It gives you a little 
+bit more control about what to commit.
+
+
+Reflection on: How can you use the staging area to make sure you have one 
+commit per logical change?
+
+The staging area helps me to commit files separatly, so if there is a 
+logical change per file, I can do a commit per logical change. If there
+are more thean one logical changes in one file I don't think the staging 
+area can help me. 
