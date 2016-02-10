@@ -36,3 +36,13 @@ structure?
 
 The diagrams show the branches as lines consisting of the commits. In
 fact they are a visualisation of the branch structure.
+
+
+Reflection on: What is the result of merging two branches together? Why do 
+we represent it in the diagram the way we do?
+
+Every commit in the history of both (or more) branches, is now reachable 
+from the head of the new merged branch. The latest commit has two parents 
+and contains the latest work from all merged branches.
+The diagramm is supposed to show how the braches, and the commits in it, 
+are first separated and indipendent from each other, and then combined.
