@@ -46,3 +46,13 @@ from the head of the new merged branch. The latest commit has two parents
 and contains the latest work from all merged branches.
 The diagramm is supposed to show how the braches, and the commits in it, 
 are first separated and indipendent from each other, and then combined.
+
+
+Reflection on: What are the pros and cons of Git’s automatic merging vs. 
+always doing merges manually?
+
+Pro: Automatic merging saves a lot of time, as you get exactly the lines 
+that are relevant. If you had to search the the whole dokuments threw, by 
+your self would risk losing the overview.
+Contra: You have to trust the program. 
+
