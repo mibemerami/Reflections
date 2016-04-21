@@ -11,4 +11,13 @@ Git automatically stay up-to-date with your remote repository?
 
 So I will have more control, about what data I get at what time. And I can prevent
 confusing my local repo. Also to me it's not clear what happens if I'm currently 
-working on a file and than it would be updated. 
+working on a file and than it would be updated.
+
+
+Reflectin on: Describe the differences between forks, clones, and branches. When would
+you use one instead of another? 
+
+Fork is the equivalent of clone, but on Github and not localy. So if I'm working 
+on my lokal mashine, I have to clone, and if I'm working on GitHub I  have to fork. 
+A branch exists on both but as far as I know you have to create a branch localy and 
+than push it to GitHub.
