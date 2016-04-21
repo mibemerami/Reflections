@@ -4,3 +4,11 @@ all your work local?
 First of all, when I want to work together with other peaple. Second, when I want to, 
 or have to work from different places on the same project. For example from home and 
 from work. And third when I want to use the remote repository as kind of a backup.
+
+
+Reflection on: Why might you want to always pull changes manually rather than having 
+Git automatically stay up-to-date with your remote repository?
+
+So I will have more control, about what data I get at what time. And I can prevent
+confusing my local repo. Also to me it's not clear what happens if I'm currently 
+working on a file and than it would be updated. 
