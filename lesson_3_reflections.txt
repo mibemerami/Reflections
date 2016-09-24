@@ -21,3 +21,12 @@ Fork is the equivalent of clone, but on Github and not localy. So if I'm working
 on my lokal mashine, I have to clone, and if I'm working on GitHub I  have to fork. 
 A branch exists on both but as far as I know you have to create a branch localy and 
 than push it to GitHub.
+
+
+Reflection on: What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+
+The last known state of the remote is an important commit, and it is good to have 
+the ability to easy get the difference between this and the current one.
+
+
