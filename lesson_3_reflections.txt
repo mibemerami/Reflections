@@ -30,3 +30,13 @@ The last known state of the remote is an important commit, and it is good to hav
 the ability to easy get the difference between this and the current one.
 
 
+Reflection on: How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+
+As I can do everything positiv, that I can do without Git, also with Git, I think 
+there is nothing easier, not using Git. Without Git or GitHub, one would have to 
+comunicate and coordinate a lot more.
+
+
+  
+
