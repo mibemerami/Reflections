@@ -38,5 +38,11 @@ there is nothing easier, not using Git. Without Git or GitHub, one would have to
 comunicate and coordinate a lot more.
 
 
+Reflection on: When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+
+I would open a new branch, when I plan to add a new feature (a so called feature-branch),
+not when I just want to make some adaptions.
+
   
 
